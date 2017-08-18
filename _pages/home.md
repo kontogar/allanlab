@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "Test - Home"
 layout: homelay
 excerpt: "Allan Lab at Leiden University."
 sitemap: false
